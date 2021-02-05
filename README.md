@@ -36,13 +36,13 @@ BFRun은 백엔드와 프론트엔드 모두 개발자로서 커리어 레이스
 ### [ 프론트엔드 ]
 
 <div style="display: flex; align-items: center;">
-<img
+<!-- <img
 src="https://avatars0.githubusercontent.com/u/58619071?s=460&u=94bbef350e5f936666b4aff5601a009bb2d741ef&v=4"
 alt="kmj"
 style="width: 80px; border-radius: 50%; border: 1px solid black; margin-right: 10px"
-/>
+/> -->
 <div style="display: flex; flex-direction: column; ">
-김민정 MJ Kim
+- 김민정 MJ Kim: 
  <a href="https://github.com/howdy-mj" target="_blank">Github</a>
  </div>
 </div>
@@ -50,13 +50,13 @@ style="width: 80px; border-radius: 50%; border: 1px solid black; margin-right: 1
 <br />
 
 <div style="display: flex; align-items: center;">
-<img
+<!-- <img
 src="https://avatars0.githubusercontent.com/u//59866241?s=460&u=2ec46f9a5e73636199d7c335cd93e55663a0ec9b&v=4"
 alt="kmj"
 style="width: 80px; border-radius: 50%; border: 1px solid black; margin-right: 10px"
-/>
+/> -->
 <div style="display: flex; flex-direction: column; ">
-심기현 Simple Key
+- 심기현 Simple Key: 
  <a href="https://github.com/skh417" target="_blank">Github</a>
  </div>
 </div>
@@ -64,13 +64,13 @@ style="width: 80px; border-radius: 50%; border: 1px solid black; margin-right: 1
 <br />
 
 <div style="display: flex; align-items: center;">
-<img
+<!-- <img
 src="https://avatars0.githubusercontent.com/u//59141662?s=460&u=b761ea7b11ece3885fe8011b5e2f7b4ae5210f7f&v=4"
 alt="kmj"
 style="width: 80px; border-radius: 50%; border: 1px solid black; margin-right: 10px"
-/>
+/> -->
 <div style="display: flex; flex-direction: column; ">
-이원철 One-iron
+- 이원철 One-iron: 
  <a href="https://github.com/one-iron" target="_blank">Github</a>
  </div>
 </div>
@@ -78,13 +78,13 @@ style="width: 80px; border-radius: 50%; border: 1px solid black; margin-right: 1
 ### [ 백엔드 ]
 
 <div style="display: flex; align-items: center;">
-<img
+<!-- <img
 src="https://avatars0.githubusercontent.com/u/60729037?s=460&u=02b11a01d5e8a000474fc1edb8266cb00499b193&v=4"
 alt="kmj"
 style="width: 80px; border-radius: 50%; border: 1px solid black; margin-right: 10px"
-/>
+/> -->
 <div style="display: flex; flex-direction: column; ">
-이예은 Yeeun
+- 이예은 Yeeun: 
  <a href="https://github.com/yenilee" target="_blank">Github</a>
  </div>
 </div>
@@ -92,13 +92,13 @@ style="width: 80px; border-radius: 50%; border: 1px solid black; margin-right: 1
 <br />
 
 <div style="display: flex; align-items: center;">
-<img
+<!-- <img
 src="https://avatars0.githubusercontent.com/u/33950753?s=460&u=81572a4a2e22584e5f695470ad8aab752ac30d33&v=4"
 alt="kmj"
 style="width: 80px; border-radius: 50%; border: 1px solid black; margin-right: 10px"
-/>
+/> -->
 <div style="display: flex; flex-direction: column; ">
-진성준 Jun-Jin
+- 진성준 Jun-Jin: 
  <a href="https://github.com/sungjun-jin" target="_blank">Github</a>
  </div>
 </div>
