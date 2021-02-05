@@ -4,9 +4,7 @@ import styled from 'styled-components';
 // internal modules
 import PlayList from './PlayList';
 
-const Information = (props) => {
-  const { listVideo, clickList, videoUrl, videoInfo } = props;
-
+const Information = ({ listVideo, clickList, videoUrl, videoInfo }) => {
   return (
     <InformationWrap>
       <InformationContainer>
